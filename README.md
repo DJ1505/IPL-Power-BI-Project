@@ -54,3 +54,7 @@
 10. Generating insights from charts
 11. Export report
 
+
+
+FOR OUTPUT GOTO https://github.com/DJ1505/IPL-Power-BI-Project/blob/main/Dashboard%20output.png
+
